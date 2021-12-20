@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @githubVaishali
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Mchine Learning
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me = heervaishali7@gmail.com
 
 <!---
